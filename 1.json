@@ -38,9 +38,9 @@
 {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
-{"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1,"spider":"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
-{"key": "戏曲","name": "🅰️戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
-{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
+{"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1,"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
+{"key": "戏曲","name": "🅰️戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
+{"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://cdn.ravi.cool/gh/pulizheng/0/wuai1.jar"},
 
 ## XB系列
 {"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.ravi.cool/gh/pulizheng/0/XB/在线之家.json"},
